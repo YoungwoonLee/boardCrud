@@ -28,7 +28,7 @@
 <body>
 <jsp:include page="../top.jsp" flush="false"/>
 <br>
-	<table class="table table-bordered" style="border: 1px solid red; width:70%; height: 100px; margin: auto; text-align: center;">
+	<table class="table table-striped" style="width:70%; margin: auto;">
 		<thead>
 			<tr>
 				<th>id</th>
